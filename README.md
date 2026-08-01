@@ -1,8 +1,13 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8dfc136-2e45-45f4-bbb1-30b50474fc02" />
 
-👉 **[Click Here to Interact with the Live Tableau Dashboard](YOUR_TABLEAU_PUBLIC_OR_SERVER_LINK)**
+👉 **[Click Here to Interact with the Live Tableau Dashboard](https://github.com/monajasuja92/superstore-analytics-dashboard/blob/main/TABLEAU%20DASHBOARD-SUPERSTORE.twb)**
 
----# Superstore Executive Analytics Dashboard FRD
+---
+
+👉 **[Click Here to Read the Executive Business Insights](./INSIGHTS.md)**
+
+---
+
 
 
 # BUSINESS FUNCTIONAL REQUIREMENT DOCUMENT (FRD)
